@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/itsmesatyavir/fun?style=social)](https://github.com/your-username/your-repo-name/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/itsmesatyavir/fun?style=social)](https://github.com/your-username/your-repo-name/network/members)
 
-A Node.js Telegram bot that interacts with **[FUN Message Scoring Bot](https://t.me/fun_message_scoring_bot?start=ref_2024951199)** to automate and enhance your FUN game experience.
+A Node.js bot that interacts with **[FUN Message Scoring Bot](https://t.me/fun_message_scoring_bot?start=ref_2024951199)** to automate and enhance your FUN game experience.
 
 ---
 
